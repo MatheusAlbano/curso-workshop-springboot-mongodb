@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.matheusalbano.workshopmongo.services.ObjectNotFoundException;
+import com.matheusalbano.workshopmongo.services.exception.ObjectNotFoundException;
 
 import jakarta.servlet.http.HttpServletRequest;
 

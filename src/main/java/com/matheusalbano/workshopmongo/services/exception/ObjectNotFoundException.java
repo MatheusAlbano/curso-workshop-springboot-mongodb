@@ -1,4 +1,4 @@
-package com.matheusalbano.workshopmongo.services;
+package com.matheusalbano.workshopmongo.services.exception;
 
 public class ObjectNotFoundException extends RuntimeException{
 
